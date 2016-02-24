@@ -1,0 +1,49 @@
+{
+  "name": "aim",
+  "version": "0.0.1",
+  "description": "Data Sub Tools",
+  "homepage": "https://github.com/datasub/aim",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datasub/aim"
+  },
+  "bugs": {
+    "url": "https://github.com/datasub/aim",
+    "email": "support@automategreen.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "tools",
+    "system"
+  ],
+  "author": {
+    "name": "Data Subsystem inc.",
+    "email": "admin@datasub.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+      "authorize-net": "*"
+  },
+  "dependencies": {
+      "authorize-net": "*"
+  },
+  "gitHead": "",
+  "_id": "aim@0.0.1",
+  "_shasum": "",
+  "_from": "tsys@*",
+  "_npmVersion": "2.5.0",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "datasub",
+    "email": "admin@datasub.com"
+  },
+  "maintainers": [
+    {
+      "name": "datasub",
+      "email": "admin@datasub.com"
+    }
+  ]
+}
